@@ -12,7 +12,11 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "app_one"
-include ':app_one'
-include ':app_two'
+rootProject.name = "multiple"
+include ':app'
+include ':core'
+include ':data'
+include ':emotions'
+include ':journaling'
+include ':fitness'
 include ':common'

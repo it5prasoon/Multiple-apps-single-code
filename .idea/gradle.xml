@@ -10,9 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app_one" />
-            <option value="$PROJECT_DIR$/app_two" />
+            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/emotions" />
+            <option value="$PROJECT_DIR$/fitness" />
+            <option value="$PROJECT_DIR$/journaling" />
           </set>
         </option>
       </GradleProjectSettings>

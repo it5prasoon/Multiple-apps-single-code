@@ -3,12 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/multipleapplication/app/src/main/res/layout/activity_app_one.xml" value="0.26875" />
+        <entry key="..\:/multipleapplication/app/src/main/res/layout/activity_habit.xml" value="0.26875" />
+        <entry key="..\:/multipleapplication/app/src/main/res/layout/activity_main.xml" value="0.2677083333333333" />
+        <entry key="..\:/multipleapplication/app/src/main/res/layout/activity_reward.xml" value="0.26875" />
         <entry key="..\:/multipleapplication/app_one/src/main/res/layout/activity_app_one.xml" value="0.1" />
         <entry key="..\:/multipleapplication/app_one/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/multipleapplication/app_two/src/main/res/layout/activity_app_two.xml" value="0.26875" />
         <entry key="..\:/multipleapplication/app_two/src/main/res/layout/fragment_home.xml" value="0.26875" />
         <entry key="..\:/multipleapplication/common/src/main/res/layout/activity_base.xml" value="0.2546875" />
+        <entry key="..\:/multipleapplication/common/src/main/res/layout/activity_habit.xml" value="0.1578125" />
+        <entry key="..\:/multipleapplication/common/src/main/res/layout/activity_reward.xml" value="0.1578125" />
         <entry key="..\:/multipleapplication/common/src/main/res/layout/fragment_splash.xml" value="0.2546875" />
+        <entry key="..\:/multipleapplication/emotions/src/main/res/layout/activity_habit.xml" value="0.14375" />
       </map>
     </option>
   </component>
