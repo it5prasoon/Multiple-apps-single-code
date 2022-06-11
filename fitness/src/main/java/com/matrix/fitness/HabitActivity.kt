@@ -1,11 +1,12 @@
 package com.matrix.fitness
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.matrix.common.HabitActivityAbs
 
-class HabitActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_habit)
+class HabitActivity : HabitActivityAbs() {
+    override val initDataKey: String = "Fitness"
+
+    override fun onCreate(initDataKey: String, savedInstanceState: Bundle?) {
+
     }
 }

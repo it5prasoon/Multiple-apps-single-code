@@ -4,6 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import com.matrix.emotions.Feature
+import com.matrix.emotions.HabitActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         findViewById<TextView>(R.id.click_me).apply {
             setOnClickListener {
                 val intent = Intent(this@MainActivity, HabitActivity::class.java).apply {
-                    putExtra("DATA", Feature.getDat())
+                    putExtra(Feature.getDat(), "Hello there")
                 }
                 startActivity(intent)
             }
